@@ -69,7 +69,6 @@
             <plugin>
               <artifactId>maven-surefire-report-plugin</artifactId>
             </plugin>
-
             <plugin>
               <groupId>org.codehaus.mojo</groupId>
               <artifactId>findbugs-maven-plugin</artifactId>
